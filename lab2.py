@@ -34,4 +34,4 @@ print(xIsEvenLog)
 #Ad 3 Hint- use the "ternary operator" as we did in calculating xIsEvenLog above.
 #4 Add rounding for the above x/y operation. Round to 2 decimal points. Hint: look up in Google "python limiting number of decimals". (1p)
 #5 Test your code. Check various edge cases. In other words: does your program (1, 3 & 4)work for all input values?
-# In case of task 4  do not forget to  round to different amount of decimals and see if it still works.(3p)
+# In case of task 4  do not forget to round to different amount of decimals and see if it still works.(3p)
