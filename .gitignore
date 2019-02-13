@@ -206,3 +206,6 @@ dmypy.json
 
 #MacOS
 .DS_Store
+
+#plots
+*.pdf
