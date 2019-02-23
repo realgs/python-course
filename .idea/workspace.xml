@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8b4b71-b099-4ab6-8fba-a4713e94e64c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +20,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+            <state relative-caret-position="261">
+              <caret line="77" column="89" selection-start-line="77" selection-start-column="89" selection-end-line="77" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="148" column="47" lean-forward="true" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab4.py">
+        <entry file="file://$PROJECT_DIR$/lab5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -38,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/lab3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -72,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="365">
+              <caret line="38" column="104" selection-start-line="38" selection-start-column="104" selection-end-line="38" selection-end-column="104" />
             </state>
           </provider>
         </entry>
@@ -117,16 +130,18 @@
         <option value="$PROJECT_DIR$/lab1input.py" />
         <option value="$PROJECT_DIR$/lab1-plot.py" />
         <option value="$PROJECT_DIR$/lab2-plot.py" />
-        <option value="$PROJECT_DIR$/lab2.py" />
-        <option value="$PROJECT_DIR$/lab2.py" />
+        <option value="$PROJECT_DIR$/alb5.py" />
         <option value="$PROJECT_DIR$/lab1.py" />
         <option value="$PROJECT_DIR$/lab1.py" />
+        <option value="$PROJECT_DIR$/lab2.py" />
+        <option value="$PROJECT_DIR$/lab2.py" />
         <option value="$PROJECT_DIR$/lab3.py" />
         <option value="$PROJECT_DIR$/lab4.py" />
+        <option value="$PROJECT_DIR$/lab5.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -240,27 +255,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="lab4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,20 +276,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.lab1 (2)" />
-      <item itemvalue="Python.lab2" />
       <item itemvalue="Python.lab1-plot" />
       <item itemvalue="Python.lab2-plot" />
       <item itemvalue="Python.lab4" />
+      <item itemvalue="Python.lab5" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.lab4" />
+        <item itemvalue="Python.lab5" />
         <item itemvalue="Python.lab2-plot" />
         <item itemvalue="Python.lab1-plot" />
         <item itemvalue="Python.lab1 (2)" />
-        <item itemvalue="Python.lab2" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +337,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -331,7 +346,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42289156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
@@ -383,13 +398,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab2-plot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -402,25 +410,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        <state relative-caret-position="261">
+          <caret line="77" column="89" selection-start-line="77" selection-start-column="89" selection-end-line="77" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="38" column="104" selection-start-line="38" selection-start-column="104" selection-end-line="38" selection-end-column="104" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="344">
+          <caret line="148" column="47" lean-forward="true" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
