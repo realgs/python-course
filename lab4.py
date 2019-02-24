@@ -130,6 +130,7 @@ ax.plot([x_min[0]], [x_min[1]], [f(x_min)], color='k', marker='o', markersize=5,
 ax.legend()
 show()
 
+# TASKS (9p)
 #1 Looking at the Euler method above create your own function which takes:
 # a (from x' = ax)
 # h - step
